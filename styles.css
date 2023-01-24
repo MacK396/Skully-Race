@@ -49,13 +49,14 @@
     --bottom: 0;
     position: absolute;
     left: 1%;
-    height: 40%;
+    height: 30%;
+    width: 15%;
     bottom: calc(var(--bottom) * 1%);
   }
   
   .cactus {
     position: absolute;
     left: calc(var(--left) * 1%);
-    height: 50%;
+    height: 40%;
     bottom: 0;
   }

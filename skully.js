@@ -6,7 +6,7 @@ import {
   
   const skullyElem = document.querySelector("[data-skully]")
   const JUMP_SPEED = 0.45
-  const GRAVITY = 0.0015
+  const GRAVITY = 0.0011
   const SKULLY_FRAME_COUNT = 2
   const FRAME_TIME = 100
   
